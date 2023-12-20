@@ -1,2 +1,2 @@
-# inviduelluppgift_pseudokod_niklasnilsson F23
+# inviduelluppgift_pseudokod_niklasnilsson
 inviduell skoluppgift
